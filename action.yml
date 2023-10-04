@@ -1,0 +1,9 @@
+name: 'Image Optimizer'
+description: 'For Converting all Images to Webp format'
+branding:
+  icon: 'info'
+  color: 'green'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
